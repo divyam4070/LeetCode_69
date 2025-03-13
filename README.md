@@ -17,6 +17,7 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 ## Prefix Sum
 |  |
 | ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/divyam4070/LeetCode_69/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/divyam4070/LeetCode_69/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [3644-minimum-positive-sum-subarray](https://github.com/divyam4070/LeetCode_69/tree/master/3644-minimum-positive-sum-subarray) |
 ## Binary Search
@@ -27,4 +28,8 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 |  |
 | ------- |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/divyam4070/LeetCode_69/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+## String
+|  |
+| ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/divyam4070/LeetCode_69/tree/master/1537-maximum-score-after-splitting-a-string) |
 <!---LeetCode Topics End-->
