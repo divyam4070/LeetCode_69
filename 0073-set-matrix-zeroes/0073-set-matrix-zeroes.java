@@ -42,7 +42,7 @@ class Solution {
                 }
             }
         }
-        System.out.print(Arrays.deepToString(matrix));
+        // System.out.print(Arrays.deepToString(matrix));
         if(firstrowhaszero){
             for(int i = 0; i<matrix[0].length; i++){
                 matrix[0][i] = 0;
