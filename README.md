@@ -6,6 +6,7 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 ## Array
 |  |
 | ------- |
+| [0898-transpose-matrix](https://github.com/divyam4070/LeetCode_69/tree/master/0898-transpose-matrix) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/divyam4070/LeetCode_69/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/divyam4070/LeetCode_69/tree/master/1603-running-sum-of-1d-array) |
 | [2055-describe-the-painting](https://github.com/divyam4070/LeetCode_69/tree/master/2055-describe-the-painting) |
@@ -58,4 +59,12 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 |  |
 | ------- |
 | [2308-divide-array-into-equal-pairs](https://github.com/divyam4070/LeetCode_69/tree/master/2308-divide-array-into-equal-pairs) |
+## Matrix
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/divyam4070/LeetCode_69/tree/master/0898-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/divyam4070/LeetCode_69/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
