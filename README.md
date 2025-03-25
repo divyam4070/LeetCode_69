@@ -81,4 +81,12 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/divyam4070/LeetCode_69/tree/master/0898-transpose-matrix) |
+## Linked List
+|  |
+| ------- |
+| [0086-partition-list](https://github.com/divyam4070/LeetCode_69/tree/master/0086-partition-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0086-partition-list](https://github.com/divyam4070/LeetCode_69/tree/master/0086-partition-list) |
 <!---LeetCode Topics End-->
