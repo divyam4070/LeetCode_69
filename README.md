@@ -20,6 +20,7 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 | [2102-find-the-middle-index-in-array](https://github.com/divyam4070/LeetCode_69/tree/master/2102-find-the-middle-index-in-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/divyam4070/LeetCode_69/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/divyam4070/LeetCode_69/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3430-count-days-without-meetings](https://github.com/divyam4070/LeetCode_69/tree/master/3430-count-days-without-meetings) |
 | [3644-minimum-positive-sum-subarray](https://github.com/divyam4070/LeetCode_69/tree/master/3644-minimum-positive-sum-subarray) |
 ## Sliding Window
 |  |
@@ -69,6 +70,7 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 |  |
 | ------- |
 | [2055-describe-the-painting](https://github.com/divyam4070/LeetCode_69/tree/master/2055-describe-the-painting) |
+| [3430-count-days-without-meetings](https://github.com/divyam4070/LeetCode_69/tree/master/3430-count-days-without-meetings) |
 ## Bit Manipulation
 |  |
 | ------- |
