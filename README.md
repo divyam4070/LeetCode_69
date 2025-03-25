@@ -84,9 +84,14 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/divyam4070/LeetCode_69/tree/master/0021-merge-two-sorted-lists) |
 | [0086-partition-list](https://github.com/divyam4070/LeetCode_69/tree/master/0086-partition-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/divyam4070/LeetCode_69/tree/master/0086-partition-list) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/divyam4070/LeetCode_69/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
