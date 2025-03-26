@@ -93,6 +93,7 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/divyam4070/LeetCode_69/tree/master/0021-merge-two-sorted-lists) |
 | [0086-partition-list](https://github.com/divyam4070/LeetCode_69/tree/master/0086-partition-list) |
+| [0328-odd-even-linked-list](https://github.com/divyam4070/LeetCode_69/tree/master/0328-odd-even-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
