@@ -1,8 +1,8 @@
 class Solution {
     public int[][] construct2DArray(int[] original, int m, int n) {
         int[][] res = new int[m][n];
-        if(original.length<m*n){
-            return new int[][]{};
+        if(original.length!=m*n){
+            return new int[0][0];
         }
         int k = 0;
         for(int i = 0; i<m; i++){
@@ -12,9 +12,7 @@ class Solution {
                
         }
 
-        if(k!=original.length){
-            return new int[][]{};
-        }
+       
 
 
 
