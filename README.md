@@ -66,6 +66,7 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 ## Math
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/divyam4070/LeetCode_69/tree/master/0292-nim-game) |
 | [2571-find-the-pivot-integer](https://github.com/divyam4070/LeetCode_69/tree/master/2571-find-the-pivot-integer) |
 ## Hash Table
 |  |
@@ -114,4 +115,12 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/divyam4070/LeetCode_69/tree/master/0240-search-a-2d-matrix-ii) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/divyam4070/LeetCode_69/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/divyam4070/LeetCode_69/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
