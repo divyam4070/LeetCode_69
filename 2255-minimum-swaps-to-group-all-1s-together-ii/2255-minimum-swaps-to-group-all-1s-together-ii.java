@@ -1,28 +1,18 @@
 class Solution {
-    public int minSwaps(int[] nums) {
-        if(nums.length == 1 || nums.length == 2){
-            return 0;
-        }
-        int n = 0;
-        for(int i = 0; i<nums.length; i++){
-            if(nums[i]==1){
-                n++;
-            }
-        }
-        int m = 0;
-        int k = 0;
-        for(int i = 0; i < 2*nums.length; i++){
-            if(i>=n && nums[(i-n)%nums.length]==1){
-                m--;
-            }
-            if(nums[i%nums.length] == 1){
-                m++;
-            }
-            k = Math.max(k, m);
-        }
+  public int minSwaps(int[] nums) {
+    final int n = nums.length;
+    final int k = (int) Arrays.stream(nums).filter(a -> a == 1).count();
+    int ones = 0;    // the number of ones in the window
+    int maxOnes = 0; // the maximum number of ones in the window
 
-
-
-        return n-k;
+    for (int i = 0; i < n * 2; ++i) {
+      if (i >= k && nums[(i - k) % n] == 1)
+        --ones;
+      if (nums[i % n] == 1)
+        ++ones;
+      maxOnes = Math.max(maxOnes, ones);
     }
+
+    return k - maxOnes;
+  }
 }
