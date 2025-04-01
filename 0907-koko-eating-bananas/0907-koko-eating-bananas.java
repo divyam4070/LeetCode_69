@@ -1,11 +1,15 @@
 class Solution {
     public int minEatingSpeed(int[] piles, int h) {
+        
         int high = 0;
 
         for (int i : piles) {
             if (i > high) {
                 high = i;
             }
+        }
+        if(h == piles.length){
+            return high;
         }
         // System.out.print(big_pile);
 
