@@ -17,7 +17,7 @@ class Solution {
             int mid = (low + high) / 2;
             int hours = 0;
             for (int i : piles) {
-                int ceilValue = (int) Math.ceil((double) i / mid);
+                int ceilValue = (i+mid-1)/mid;
                 hours += ceilValue;
             }
             if (hours > h) {
