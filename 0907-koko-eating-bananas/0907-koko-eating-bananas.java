@@ -7,7 +7,7 @@ class Solution {
                 big_pile = i;
             }
         }
-        System.out.print(big_pile);
+        // System.out.print(big_pile);
 
         int high = big_pile;
         int low = 1;
