@@ -19,6 +19,7 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/divyam4070/LeetCode_69/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1580-shuffle-the-array](https://github.com/divyam4070/LeetCode_69/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/divyam4070/LeetCode_69/tree/master/1603-running-sum-of-1d-array) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/divyam4070/LeetCode_69/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/divyam4070/LeetCode_69/tree/master/1646-kth-missing-positive-number) |
 | [1791-richest-customer-wealth](https://github.com/divyam4070/LeetCode_69/tree/master/1791-richest-customer-wealth) |
 | [2055-describe-the-painting](https://github.com/divyam4070/LeetCode_69/tree/master/2055-describe-the-painting) |
@@ -58,6 +59,7 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 | [0540-single-element-in-a-sorted-array](https://github.com/divyam4070/LeetCode_69/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/divyam4070/LeetCode_69/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/divyam4070/LeetCode_69/tree/master/1046-max-consecutive-ones-iii) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/divyam4070/LeetCode_69/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/divyam4070/LeetCode_69/tree/master/1646-kth-missing-positive-number) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/divyam4070/LeetCode_69/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Counting
