@@ -1,36 +1,44 @@
 class Solution {
-  public int minDays(int[] bloomDay, int m, int k) {
-    if (bloomDay.length < (long) m * k)
-      return -1;
+    private boolean isValid(int[] bloomDay, int m, int k, int day) {
+        int count = 0, noOfbouquets = 0, n = bloomDay.length;
 
-    int l = Arrays.stream(bloomDay).min().getAsInt();
-    int r = Arrays.stream(bloomDay).max().getAsInt();
-
-    while (l < r) {
-      final int mid = (l + r) / 2;
-      if (getBouquetCount(bloomDay, k, mid) >= m)
-        r = mid;
-      else
-        l = mid + 1;
+        for(int i = 0; i < n; i++) {
+            if(bloomDay[i] <= day) {
+                count++;
+                if(count == k) {
+                    noOfbouquets++;
+                    count = 0;
+                    if(noOfbouquets == m) {
+                        return true;
+                    }
+                }
+            }else {
+                count = 0;
+                if(n - i < (m - noOfbouquets) * k) {
+                    return false;
+                }
+            }
+        }
+        return false;
     }
 
-    return l;
-  }
+    public int minDays(int[] bloomDay, int m, int k) {
+        if(bloomDay.length < (long)k * m) return -1;
 
-  // Returns the number of bouquets (k flowers needed) can be made after the
-  // `waitingDays`..
-  private int getBouquetCount(int[] bloomDay, int k, int waitingDays) {
-    int bouquetCount = 0;
-    int requiredFlowers = k;
-    for (final int day : bloomDay)
-      if (day > waitingDays) {
-        // Reset `requiredFlowers` since there was not enough adjacent flowers.
-        requiredFlowers = k;
-      } else if (--requiredFlowers == 0) {
-        // Use k adjacent flowers to make a bouquet.
-        ++bouquetCount;
-        requiredFlowers = k;
-      }
-    return bouquetCount;
-  }
+        int l = Integer.MAX_VALUE, r = Integer.MIN_VALUE;
+
+        for(int day : bloomDay) {
+            if(day > r) r = day;
+            if(day < l) l = day;
+        }
+
+        while(l <= r) {
+            int mid = l + (r-l)/2;
+
+            if(isValid(bloomDay, m, k, mid)) r = mid-1;
+            else l = mid + 1;
+        }
+
+        return l;
+    }
 }
