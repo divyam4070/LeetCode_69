@@ -113,16 +113,19 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 | [0021-merge-two-sorted-lists](https://github.com/divyam4070/LeetCode_69/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/divyam4070/LeetCode_69/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/divyam4070/LeetCode_69/tree/master/0086-partition-list) |
+| [0234-palindrome-linked-list](https://github.com/divyam4070/LeetCode_69/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/divyam4070/LeetCode_69/tree/master/0328-odd-even-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/divyam4070/LeetCode_69/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/divyam4070/LeetCode_69/tree/master/0086-partition-list) |
+| [0234-palindrome-linked-list](https://github.com/divyam4070/LeetCode_69/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/divyam4070/LeetCode_69/tree/master/0021-merge-two-sorted-lists) |
+| [0234-palindrome-linked-list](https://github.com/divyam4070/LeetCode_69/tree/master/0234-palindrome-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -136,4 +139,8 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/divyam4070/LeetCode_69/tree/master/0292-nim-game) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/divyam4070/LeetCode_69/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
