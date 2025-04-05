@@ -25,8 +25,7 @@ class Solution {
         for(int j =1; j<nums.length-1; j++){
             res = Math.max(res,(long)(prefix[j-1]-nums[j]) * suffix[j+1]);
         }
-        System.out.println(Arrays.toString(prefix));
-        System.out.println(Arrays.toString(suffix));
+        
         return res;
 
         
