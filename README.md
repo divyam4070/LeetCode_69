@@ -73,6 +73,7 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 ## String
 |  |
 | ------- |
+| [1078-remove-outermost-parentheses](https://github.com/divyam4070/LeetCode_69/tree/master/1078-remove-outermost-parentheses) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/divyam4070/LeetCode_69/tree/master/1537-maximum-score-after-splitting-a-string) |
 ## Math
 |  |
@@ -144,4 +145,5 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/divyam4070/LeetCode_69/tree/master/0234-palindrome-linked-list) |
+| [1078-remove-outermost-parentheses](https://github.com/divyam4070/LeetCode_69/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
