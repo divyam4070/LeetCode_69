@@ -7,13 +7,13 @@ class Solution {
             map.put(c, map.getOrDefault(c, 0)+1);
         }
 
-        for(Map.Entry<Character, Integer> entry: map.entrySet()){
-            if(entry.getValue()%2==0){
-                res+=entry.getValue();
+        for(Integer values: map.values()){
+            if(values%2==0){
+                res+=values;
             }
             else{
                 oddPresent = true;
-                res+=entry.getValue()-1;
+                res+=values-1;
             }
         }
         if(oddPresent){
