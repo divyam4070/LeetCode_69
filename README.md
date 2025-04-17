@@ -69,6 +69,7 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 ## Counting
 |  |
 | ------- |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/divyam4070/LeetCode_69/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2308-divide-array-into-equal-pairs](https://github.com/divyam4070/LeetCode_69/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/divyam4070/LeetCode_69/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## String
@@ -78,6 +79,7 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 | [0409-longest-palindrome](https://github.com/divyam4070/LeetCode_69/tree/master/0409-longest-palindrome) |
 | [1078-remove-outermost-parentheses](https://github.com/divyam4070/LeetCode_69/tree/master/1078-remove-outermost-parentheses) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/divyam4070/LeetCode_69/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/divyam4070/LeetCode_69/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Math
 |  |
 | ------- |
@@ -88,6 +90,7 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/divyam4070/LeetCode_69/tree/master/0073-set-matrix-zeroes) |
 | [0409-longest-palindrome](https://github.com/divyam4070/LeetCode_69/tree/master/0409-longest-palindrome) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/divyam4070/LeetCode_69/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2055-describe-the-painting](https://github.com/divyam4070/LeetCode_69/tree/master/2055-describe-the-painting) |
 | [2308-divide-array-into-equal-pairs](https://github.com/divyam4070/LeetCode_69/tree/master/2308-divide-array-into-equal-pairs) |
 ## Sorting
