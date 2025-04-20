@@ -152,6 +152,7 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/divyam4070/LeetCode_69/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/divyam4070/LeetCode_69/tree/master/0234-palindrome-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/divyam4070/LeetCode_69/tree/master/1078-remove-outermost-parentheses) |
 ## Greedy
@@ -163,4 +164,8 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/divyam4070/LeetCode_69/tree/master/0392-is-subsequence) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/divyam4070/LeetCode_69/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
