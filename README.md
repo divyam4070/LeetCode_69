@@ -11,6 +11,7 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/divyam4070/LeetCode_69/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/divyam4070/LeetCode_69/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/divyam4070/LeetCode_69/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/divyam4070/LeetCode_69/tree/master/0085-maximal-rectangle) |
 | [0135-candy](https://github.com/divyam4070/LeetCode_69/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/divyam4070/LeetCode_69/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/divyam4070/LeetCode_69/tree/master/0240-search-a-2d-matrix-ii) |
@@ -107,6 +108,7 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/divyam4070/LeetCode_69/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/divyam4070/LeetCode_69/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/divyam4070/LeetCode_69/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/divyam4070/LeetCode_69/tree/master/0240-search-a-2d-matrix-ii) |
 | [0898-transpose-matrix](https://github.com/divyam4070/LeetCode_69/tree/master/0898-transpose-matrix) |
 | [1791-richest-customer-wealth](https://github.com/divyam4070/LeetCode_69/tree/master/1791-richest-customer-wealth) |
@@ -152,6 +154,7 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/divyam4070/LeetCode_69/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/divyam4070/LeetCode_69/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/divyam4070/LeetCode_69/tree/master/0234-palindrome-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/divyam4070/LeetCode_69/tree/master/1078-remove-outermost-parentheses) |
@@ -163,9 +166,14 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/divyam4070/LeetCode_69/tree/master/0085-maximal-rectangle) |
 | [0392-is-subsequence](https://github.com/divyam4070/LeetCode_69/tree/master/0392-is-subsequence) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/divyam4070/LeetCode_69/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/divyam4070/LeetCode_69/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
