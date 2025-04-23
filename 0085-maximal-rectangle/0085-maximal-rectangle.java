@@ -3,7 +3,21 @@ class Solution {
         if(matrix.length == 0){
             return 0;
         }
-        
+        if(matrix.length == 1){
+            int res = 0;
+            int ans = 0;
+            for(int i =0;i<matrix[0].length; i++){
+                if(matrix[0][i]=='1'){
+                    res+=1;
+                }
+                else{
+                    res = 0;
+                }
+                ans = Math.max(ans,res);
+            }
+            return ans;
+        }
+
         int rows = matrix.length;
         int res = 0;
         int cols = matrix[0].length;
