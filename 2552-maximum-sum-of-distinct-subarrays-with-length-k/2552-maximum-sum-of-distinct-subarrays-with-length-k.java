@@ -13,15 +13,10 @@ class Solution {
             }
             h.put(nums[i], h.getOrDefault(nums[i], 0)+1);
             sum+=nums[i];
-            System.out.println(h.size());
             if(h.size()==k){
                 maxSum = Math.max(maxSum,sum);
-                System.out.println("yes");
-
             }
         }
-
-
         return maxSum;
     }
 }
