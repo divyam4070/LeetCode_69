@@ -16,6 +16,7 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/divyam4070/LeetCode_69/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/divyam4070/LeetCode_69/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/divyam4070/LeetCode_69/tree/master/0540-single-element-in-a-sorted-array) |
+| [0724-find-pivot-index](https://github.com/divyam4070/LeetCode_69/tree/master/0724-find-pivot-index) |
 | [0898-transpose-matrix](https://github.com/divyam4070/LeetCode_69/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/divyam4070/LeetCode_69/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/divyam4070/LeetCode_69/tree/master/1046-max-consecutive-ones-iii) |
@@ -45,6 +46,7 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/divyam4070/LeetCode_69/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/divyam4070/LeetCode_69/tree/master/1046-max-consecutive-ones-iii) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/divyam4070/LeetCode_69/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/divyam4070/LeetCode_69/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
