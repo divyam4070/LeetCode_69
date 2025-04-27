@@ -34,6 +34,7 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/divyam4070/LeetCode_69/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3430-count-days-without-meetings](https://github.com/divyam4070/LeetCode_69/tree/master/3430-count-days-without-meetings) |
 | [3644-minimum-positive-sum-subarray](https://github.com/divyam4070/LeetCode_69/tree/master/3644-minimum-positive-sum-subarray) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/divyam4070/LeetCode_69/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Sliding Window
 |  |
 | ------- |
