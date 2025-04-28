@@ -81,6 +81,7 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/divyam4070/LeetCode_69/tree/master/0005-longest-palindromic-substring) |
 | [0392-is-subsequence](https://github.com/divyam4070/LeetCode_69/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/divyam4070/LeetCode_69/tree/master/0409-longest-palindrome) |
 | [1078-remove-outermost-parentheses](https://github.com/divyam4070/LeetCode_69/tree/master/1078-remove-outermost-parentheses) |
@@ -135,6 +136,7 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/divyam4070/LeetCode_69/tree/master/0005-longest-palindromic-substring) |
 | [0061-rotate-list](https://github.com/divyam4070/LeetCode_69/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/divyam4070/LeetCode_69/tree/master/0086-partition-list) |
 | [0234-palindrome-linked-list](https://github.com/divyam4070/LeetCode_69/tree/master/0234-palindrome-linked-list) |
@@ -172,6 +174,7 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/divyam4070/LeetCode_69/tree/master/0005-longest-palindromic-substring) |
 | [0085-maximal-rectangle](https://github.com/divyam4070/LeetCode_69/tree/master/0085-maximal-rectangle) |
 | [0392-is-subsequence](https://github.com/divyam4070/LeetCode_69/tree/master/0392-is-subsequence) |
 ## Design
