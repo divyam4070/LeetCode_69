@@ -94,6 +94,7 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/divyam4070/LeetCode_69/tree/master/0009-palindrome-number) |
 | [0292-nim-game](https://github.com/divyam4070/LeetCode_69/tree/master/0292-nim-game) |
 | [0357-count-numbers-with-unique-digits](https://github.com/divyam4070/LeetCode_69/tree/master/0357-count-numbers-with-unique-digits) |
 | [2571-find-the-pivot-integer](https://github.com/divyam4070/LeetCode_69/tree/master/2571-find-the-pivot-integer) |
