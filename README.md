@@ -7,6 +7,7 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/divyam4070/LeetCode_69/tree/master/0004-median-of-two-sorted-arrays) |
+| [0031-next-permutation](https://github.com/divyam4070/LeetCode_69/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/divyam4070/LeetCode_69/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/divyam4070/LeetCode_69/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/divyam4070/LeetCode_69/tree/master/0073-set-matrix-zeroes) |
@@ -137,6 +138,7 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/divyam4070/LeetCode_69/tree/master/0005-longest-palindromic-substring) |
+| [0031-next-permutation](https://github.com/divyam4070/LeetCode_69/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/divyam4070/LeetCode_69/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/divyam4070/LeetCode_69/tree/master/0086-partition-list) |
 | [0234-palindrome-linked-list](https://github.com/divyam4070/LeetCode_69/tree/master/0234-palindrome-linked-list) |
