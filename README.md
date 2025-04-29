@@ -16,6 +16,7 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 | [0135-candy](https://github.com/divyam4070/LeetCode_69/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/divyam4070/LeetCode_69/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/divyam4070/LeetCode_69/tree/master/0240-search-a-2d-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/divyam4070/LeetCode_69/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/divyam4070/LeetCode_69/tree/master/0540-single-element-in-a-sorted-array) |
 | [0724-find-pivot-index](https://github.com/divyam4070/LeetCode_69/tree/master/0724-find-pivot-index) |
 | [0898-transpose-matrix](https://github.com/divyam4070/LeetCode_69/tree/master/0898-transpose-matrix) |
@@ -67,6 +68,7 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 | [0074-search-a-2d-matrix](https://github.com/divyam4070/LeetCode_69/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/divyam4070/LeetCode_69/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/divyam4070/LeetCode_69/tree/master/0240-search-a-2d-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/divyam4070/LeetCode_69/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/divyam4070/LeetCode_69/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/divyam4070/LeetCode_69/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/divyam4070/LeetCode_69/tree/master/1046-max-consecutive-ones-iii) |
@@ -105,6 +107,7 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 ## Sorting
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/divyam4070/LeetCode_69/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2055-describe-the-painting](https://github.com/divyam4070/LeetCode_69/tree/master/2055-describe-the-painting) |
 | [3430-count-days-without-meetings](https://github.com/divyam4070/LeetCode_69/tree/master/3430-count-days-without-meetings) |
 ## Bit Manipulation
@@ -118,6 +121,7 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 | [0074-search-a-2d-matrix](https://github.com/divyam4070/LeetCode_69/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/divyam4070/LeetCode_69/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/divyam4070/LeetCode_69/tree/master/0240-search-a-2d-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/divyam4070/LeetCode_69/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0898-transpose-matrix](https://github.com/divyam4070/LeetCode_69/tree/master/0898-transpose-matrix) |
 | [1791-richest-customer-wealth](https://github.com/divyam4070/LeetCode_69/tree/master/1791-richest-customer-wealth) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/divyam4070/LeetCode_69/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -187,4 +191,8 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/divyam4070/LeetCode_69/tree/master/0085-maximal-rectangle) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/divyam4070/LeetCode_69/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
