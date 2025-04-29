@@ -101,6 +101,7 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/divyam4070/LeetCode_69/tree/master/0073-set-matrix-zeroes) |
+| [0160-intersection-of-two-linked-lists](https://github.com/divyam4070/LeetCode_69/tree/master/0160-intersection-of-two-linked-lists) |
 | [0409-longest-palindrome](https://github.com/divyam4070/LeetCode_69/tree/master/0409-longest-palindrome) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/divyam4070/LeetCode_69/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2055-describe-the-painting](https://github.com/divyam4070/LeetCode_69/tree/master/2055-describe-the-painting) |
@@ -138,6 +139,7 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 | [0021-merge-two-sorted-lists](https://github.com/divyam4070/LeetCode_69/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/divyam4070/LeetCode_69/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/divyam4070/LeetCode_69/tree/master/0086-partition-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/divyam4070/LeetCode_69/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/divyam4070/LeetCode_69/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/divyam4070/LeetCode_69/tree/master/0328-odd-even-linked-list) |
 ## Two Pointers
@@ -148,6 +150,7 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 | [0042-trapping-rain-water](https://github.com/divyam4070/LeetCode_69/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/divyam4070/LeetCode_69/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/divyam4070/LeetCode_69/tree/master/0086-partition-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/divyam4070/LeetCode_69/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/divyam4070/LeetCode_69/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/divyam4070/LeetCode_69/tree/master/0392-is-subsequence) |
 ## Recursion
