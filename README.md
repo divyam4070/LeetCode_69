@@ -95,6 +95,7 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/divyam4070/LeetCode_69/tree/master/0292-nim-game) |
+| [0357-count-numbers-with-unique-digits](https://github.com/divyam4070/LeetCode_69/tree/master/0357-count-numbers-with-unique-digits) |
 | [2571-find-the-pivot-integer](https://github.com/divyam4070/LeetCode_69/tree/master/2571-find-the-pivot-integer) |
 ## Hash Table
 |  |
@@ -186,6 +187,7 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 | [0005-longest-palindromic-substring](https://github.com/divyam4070/LeetCode_69/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/divyam4070/LeetCode_69/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/divyam4070/LeetCode_69/tree/master/0085-maximal-rectangle) |
+| [0357-count-numbers-with-unique-digits](https://github.com/divyam4070/LeetCode_69/tree/master/0357-count-numbers-with-unique-digits) |
 | [0392-is-subsequence](https://github.com/divyam4070/LeetCode_69/tree/master/0392-is-subsequence) |
 ## Design
 |  |
@@ -200,4 +202,8 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/divyam4070/LeetCode_69/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Backtracking
+|  |
+| ------- |
+| [0357-count-numbers-with-unique-digits](https://github.com/divyam4070/LeetCode_69/tree/master/0357-count-numbers-with-unique-digits) |
 <!---LeetCode Topics End-->
