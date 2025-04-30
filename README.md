@@ -18,6 +18,7 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 | [0135-candy](https://github.com/divyam4070/LeetCode_69/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/divyam4070/LeetCode_69/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/divyam4070/LeetCode_69/tree/master/0240-search-a-2d-matrix-ii) |
+| [0303-range-sum-query-immutable](https://github.com/divyam4070/LeetCode_69/tree/master/0303-range-sum-query-immutable) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/divyam4070/LeetCode_69/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/divyam4070/LeetCode_69/tree/master/0540-single-element-in-a-sorted-array) |
 | [0724-find-pivot-index](https://github.com/divyam4070/LeetCode_69/tree/master/0724-find-pivot-index) |
@@ -52,6 +53,7 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/divyam4070/LeetCode_69/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/divyam4070/LeetCode_69/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/divyam4070/LeetCode_69/tree/master/1046-max-consecutive-ones-iii) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/divyam4070/LeetCode_69/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -199,6 +201,7 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/divyam4070/LeetCode_69/tree/master/0155-min-stack) |
+| [0303-range-sum-query-immutable](https://github.com/divyam4070/LeetCode_69/tree/master/0303-range-sum-query-immutable) |
 ## Monotonic Stack
 |  |
 | ------- |
