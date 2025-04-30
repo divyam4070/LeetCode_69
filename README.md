@@ -6,6 +6,7 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/divyam4070/LeetCode_69/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/divyam4070/LeetCode_69/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/divyam4070/LeetCode_69/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/divyam4070/LeetCode_69/tree/master/0033-search-in-rotated-sorted-array) |
@@ -101,6 +102,7 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/divyam4070/LeetCode_69/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/divyam4070/LeetCode_69/tree/master/0073-set-matrix-zeroes) |
 | [0160-intersection-of-two-linked-lists](https://github.com/divyam4070/LeetCode_69/tree/master/0160-intersection-of-two-linked-lists) |
 | [0409-longest-palindrome](https://github.com/divyam4070/LeetCode_69/tree/master/0409-longest-palindrome) |
