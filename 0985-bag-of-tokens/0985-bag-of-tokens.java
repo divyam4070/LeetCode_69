@@ -10,12 +10,12 @@ class Solution {
                 score++;
                 power-=tokens[left];
                 left++;
-                System.out.print(power);
+               
             }
             else if(score>=1){
                 score--;
                 power+=tokens[right];
-                System.out.print(power);
+               
                 right--;
             }
             else{
