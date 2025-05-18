@@ -40,6 +40,7 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/divyam4070/LeetCode_69/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/divyam4070/LeetCode_69/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/divyam4070/LeetCode_69/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/divyam4070/LeetCode_69/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3430-count-days-without-meetings](https://github.com/divyam4070/LeetCode_69/tree/master/3430-count-days-without-meetings) |
 | [3644-minimum-positive-sum-subarray](https://github.com/divyam4070/LeetCode_69/tree/master/3644-minimum-positive-sum-subarray) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/divyam4070/LeetCode_69/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -193,6 +194,7 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 | [0135-candy](https://github.com/divyam4070/LeetCode_69/tree/master/0135-candy) |
 | [0409-longest-palindrome](https://github.com/divyam4070/LeetCode_69/tree/master/0409-longest-palindrome) |
 | [0985-bag-of-tokens](https://github.com/divyam4070/LeetCode_69/tree/master/0985-bag-of-tokens) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/divyam4070/LeetCode_69/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Dynamic Programming
 |  |
 | ------- |
