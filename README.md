@@ -24,6 +24,7 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 | [0724-find-pivot-index](https://github.com/divyam4070/LeetCode_69/tree/master/0724-find-pivot-index) |
 | [0898-transpose-matrix](https://github.com/divyam4070/LeetCode_69/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/divyam4070/LeetCode_69/tree/master/0907-koko-eating-bananas) |
+| [0985-bag-of-tokens](https://github.com/divyam4070/LeetCode_69/tree/master/0985-bag-of-tokens) |
 | [1046-max-consecutive-ones-iii](https://github.com/divyam4070/LeetCode_69/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/divyam4070/LeetCode_69/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1580-shuffle-the-array](https://github.com/divyam4070/LeetCode_69/tree/master/1580-shuffle-the-array) |
@@ -116,6 +117,7 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/divyam4070/LeetCode_69/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0985-bag-of-tokens](https://github.com/divyam4070/LeetCode_69/tree/master/0985-bag-of-tokens) |
 | [2055-describe-the-painting](https://github.com/divyam4070/LeetCode_69/tree/master/2055-describe-the-painting) |
 | [3430-count-days-without-meetings](https://github.com/divyam4070/LeetCode_69/tree/master/3430-count-days-without-meetings) |
 ## Bit Manipulation
@@ -158,6 +160,7 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 | [0160-intersection-of-two-linked-lists](https://github.com/divyam4070/LeetCode_69/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/divyam4070/LeetCode_69/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/divyam4070/LeetCode_69/tree/master/0392-is-subsequence) |
+| [0985-bag-of-tokens](https://github.com/divyam4070/LeetCode_69/tree/master/0985-bag-of-tokens) |
 ## Recursion
 |  |
 | ------- |
@@ -189,6 +192,7 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 | ------- |
 | [0135-candy](https://github.com/divyam4070/LeetCode_69/tree/master/0135-candy) |
 | [0409-longest-palindrome](https://github.com/divyam4070/LeetCode_69/tree/master/0409-longest-palindrome) |
+| [0985-bag-of-tokens](https://github.com/divyam4070/LeetCode_69/tree/master/0985-bag-of-tokens) |
 ## Dynamic Programming
 |  |
 | ------- |
