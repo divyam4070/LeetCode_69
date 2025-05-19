@@ -33,6 +33,7 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/divyam4070/LeetCode_69/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/divyam4070/LeetCode_69/tree/master/1646-kth-missing-positive-number) |
 | [1791-richest-customer-wealth](https://github.com/divyam4070/LeetCode_69/tree/master/1791-richest-customer-wealth) |
+| [1961-maximum-ice-cream-bars](https://github.com/divyam4070/LeetCode_69/tree/master/1961-maximum-ice-cream-bars) |
 | [2055-describe-the-painting](https://github.com/divyam4070/LeetCode_69/tree/master/2055-describe-the-painting) |
 | [2102-find-the-middle-index-in-array](https://github.com/divyam4070/LeetCode_69/tree/master/2102-find-the-middle-index-in-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/divyam4070/LeetCode_69/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -124,6 +125,7 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/divyam4070/LeetCode_69/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0917-boats-to-save-people](https://github.com/divyam4070/LeetCode_69/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/divyam4070/LeetCode_69/tree/master/0985-bag-of-tokens) |
+| [1961-maximum-ice-cream-bars](https://github.com/divyam4070/LeetCode_69/tree/master/1961-maximum-ice-cream-bars) |
 | [2055-describe-the-painting](https://github.com/divyam4070/LeetCode_69/tree/master/2055-describe-the-painting) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/divyam4070/LeetCode_69/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3430-count-days-without-meetings](https://github.com/divyam4070/LeetCode_69/tree/master/3430-count-days-without-meetings) |
@@ -202,6 +204,7 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 | [0409-longest-palindrome](https://github.com/divyam4070/LeetCode_69/tree/master/0409-longest-palindrome) |
 | [0917-boats-to-save-people](https://github.com/divyam4070/LeetCode_69/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/divyam4070/LeetCode_69/tree/master/0985-bag-of-tokens) |
+| [1961-maximum-ice-cream-bars](https://github.com/divyam4070/LeetCode_69/tree/master/1961-maximum-ice-cream-bars) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/divyam4070/LeetCode_69/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/divyam4070/LeetCode_69/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Dynamic Programming
@@ -230,4 +233,8 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 |  |
 | ------- |
 | [0357-count-numbers-with-unique-digits](https://github.com/divyam4070/LeetCode_69/tree/master/0357-count-numbers-with-unique-digits) |
+## Counting Sort
+|  |
+| ------- |
+| [1961-maximum-ice-cream-bars](https://github.com/divyam4070/LeetCode_69/tree/master/1961-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
