@@ -1,7 +1,7 @@
 class Solution {
     public int maxCount(int[] banned, int n, int maxSum) {
         HashSet<Integer> h = new HashSet<>();
-        Queue<Integer> q = new LinkedList<>();
+        
         int ans = 0;
         int sum = 0;
         for(int i=0; i<banned.length; i++){
@@ -16,7 +16,7 @@ class Solution {
             if(!h.contains(i)){
                 sum+=i;
                 ans++;
-                q.add(i);
+             
 
             }
 
