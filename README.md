@@ -40,6 +40,7 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 | [2308-divide-array-into-equal-pairs](https://github.com/divyam4070/LeetCode_69/tree/master/2308-divide-array-into-equal-pairs) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/divyam4070/LeetCode_69/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/divyam4070/LeetCode_69/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/divyam4070/LeetCode_69/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/divyam4070/LeetCode_69/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/divyam4070/LeetCode_69/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3430-count-days-without-meetings](https://github.com/divyam4070/LeetCode_69/tree/master/3430-count-days-without-meetings) |
@@ -82,6 +83,7 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/divyam4070/LeetCode_69/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/divyam4070/LeetCode_69/tree/master/1646-kth-missing-positive-number) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/divyam4070/LeetCode_69/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/divyam4070/LeetCode_69/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Counting
 |  |
 | ------- |
@@ -115,6 +117,7 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 | [2055-describe-the-painting](https://github.com/divyam4070/LeetCode_69/tree/master/2055-describe-the-painting) |
 | [2308-divide-array-into-equal-pairs](https://github.com/divyam4070/LeetCode_69/tree/master/2308-divide-array-into-equal-pairs) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/divyam4070/LeetCode_69/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/divyam4070/LeetCode_69/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Sorting
 |  |
 | ------- |
@@ -122,6 +125,7 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 | [0917-boats-to-save-people](https://github.com/divyam4070/LeetCode_69/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/divyam4070/LeetCode_69/tree/master/0985-bag-of-tokens) |
 | [2055-describe-the-painting](https://github.com/divyam4070/LeetCode_69/tree/master/2055-describe-the-painting) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/divyam4070/LeetCode_69/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3430-count-days-without-meetings](https://github.com/divyam4070/LeetCode_69/tree/master/3430-count-days-without-meetings) |
 ## Bit Manipulation
 |  |
@@ -198,6 +202,7 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 | [0409-longest-palindrome](https://github.com/divyam4070/LeetCode_69/tree/master/0409-longest-palindrome) |
 | [0917-boats-to-save-people](https://github.com/divyam4070/LeetCode_69/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/divyam4070/LeetCode_69/tree/master/0985-bag-of-tokens) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/divyam4070/LeetCode_69/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/divyam4070/LeetCode_69/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Dynamic Programming
 |  |
