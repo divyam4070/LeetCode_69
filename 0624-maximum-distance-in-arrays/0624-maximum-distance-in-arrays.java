@@ -3,6 +3,7 @@ class Solution {
         
         int max = Integer.MIN_VALUE;
         int idx = 0;
+        int min = Integer.MAX_VALUE;
 
         for(int i=0; i<arrays.size(); i++){
             if(arrays.get(i).get(arrays.get(i).size()-1)>max){
@@ -10,33 +11,35 @@ class Solution {
                 idx = i;
             }
         }
-        int min = Integer.MAX_VALUE;
+        System.out.println(max);
         for(int i=0; i<arrays.size(); i++){
             if(arrays.get(i).get(0)<min && i!=idx){
                 min = arrays.get(i).get(0);
             }
         }
-        int ans1 = max-min;
-        max = Integer.MIN_VALUE;
-        min = Integer.MAX_VALUE;
-
-        for(int i=0; i<arrays.size(); i++){
-            if(arrays.get(i).get(0)<min){
-                min = arrays.get(i).get(0);
-                idx = i;
-            }
+        System.out.println(min);
+        System.out.print(idx);
+        if(arrays.get(idx).get(0)>=min){
+            return max-min;
         }
-        for(int i=0; i<arrays.size(); i++){
-            if(arrays.get(i).get(arrays.get(i).size()-1)>max && i!=idx){
-                max = arrays.get(i).get(arrays.get(i).size()-1);
-                
+        else{
+            min = arrays.get(idx).get(0);
+            max = Integer.MIN_VALUE;
+            System.out.println(max);
+            for(int i=0; i<arrays.size(); i++){
+                System.out.print("lol");
+                if(arrays.get(i).get(arrays.get(i).size()-1)>max && i!=idx){
+                    max = arrays.get(i).get(arrays.get(i).size()-1);
+                }
+            
             }
+            System.out.println(max);
+            System.out.println(min);
+            return max-min;
         }
-        int ans2 =max-min;
+            
         
-
-
-        return Math.max(ans1, ans2);
+      
 
     }
 }
