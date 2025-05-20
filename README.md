@@ -21,6 +21,7 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 | [0303-range-sum-query-immutable](https://github.com/divyam4070/LeetCode_69/tree/master/0303-range-sum-query-immutable) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/divyam4070/LeetCode_69/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/divyam4070/LeetCode_69/tree/master/0540-single-element-in-a-sorted-array) |
+| [0624-maximum-distance-in-arrays](https://github.com/divyam4070/LeetCode_69/tree/master/0624-maximum-distance-in-arrays) |
 | [0724-find-pivot-index](https://github.com/divyam4070/LeetCode_69/tree/master/0724-find-pivot-index) |
 | [0898-transpose-matrix](https://github.com/divyam4070/LeetCode_69/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/divyam4070/LeetCode_69/tree/master/0907-koko-eating-bananas) |
@@ -203,6 +204,7 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 | ------- |
 | [0135-candy](https://github.com/divyam4070/LeetCode_69/tree/master/0135-candy) |
 | [0409-longest-palindrome](https://github.com/divyam4070/LeetCode_69/tree/master/0409-longest-palindrome) |
+| [0624-maximum-distance-in-arrays](https://github.com/divyam4070/LeetCode_69/tree/master/0624-maximum-distance-in-arrays) |
 | [0917-boats-to-save-people](https://github.com/divyam4070/LeetCode_69/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/divyam4070/LeetCode_69/tree/master/0985-bag-of-tokens) |
 | [1033-broken-calculator](https://github.com/divyam4070/LeetCode_69/tree/master/1033-broken-calculator) |
