@@ -1,6 +1,6 @@
 class Solution {
     public int maxDistance(List<List<Integer>> arrays) {
-        int ans = 0;
+        
         int max = Integer.MIN_VALUE;
         int idx = 0;
 
@@ -16,7 +16,7 @@ class Solution {
                 min = arrays.get(i).get(0);
             }
         }
-        int ans1 = Math.abs(max-min);
+        int ans1 = max-min;
         max = Integer.MIN_VALUE;
         min = Integer.MAX_VALUE;
 
@@ -32,7 +32,7 @@ class Solution {
                 
             }
         }
-        int ans2 = Math.abs(max-min);
+        int ans2 =max-min;
         
 
 
