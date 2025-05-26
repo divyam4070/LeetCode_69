@@ -106,6 +106,7 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/divyam4070/LeetCode_69/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/divyam4070/LeetCode_69/tree/master/0050-powx-n) |
 | [0292-nim-game](https://github.com/divyam4070/LeetCode_69/tree/master/0292-nim-game) |
 | [0357-count-numbers-with-unique-digits](https://github.com/divyam4070/LeetCode_69/tree/master/0357-count-numbers-with-unique-digits) |
 | [1033-broken-calculator](https://github.com/divyam4070/LeetCode_69/tree/master/1033-broken-calculator) |
@@ -180,6 +181,7 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/divyam4070/LeetCode_69/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/divyam4070/LeetCode_69/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/divyam4070/LeetCode_69/tree/master/0234-palindrome-linked-list) |
 ## Divide and Conquer
 |  |
