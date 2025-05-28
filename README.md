@@ -18,6 +18,7 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 | [0085-maximal-rectangle](https://github.com/divyam4070/LeetCode_69/tree/master/0085-maximal-rectangle) |
 | [0135-candy](https://github.com/divyam4070/LeetCode_69/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/divyam4070/LeetCode_69/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0174-dungeon-game](https://github.com/divyam4070/LeetCode_69/tree/master/0174-dungeon-game) |
 | [0240-search-a-2d-matrix-ii](https://github.com/divyam4070/LeetCode_69/tree/master/0240-search-a-2d-matrix-ii) |
 | [0303-range-sum-query-immutable](https://github.com/divyam4070/LeetCode_69/tree/master/0303-range-sum-query-immutable) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/divyam4070/LeetCode_69/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -148,6 +149,7 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 | [0073-set-matrix-zeroes](https://github.com/divyam4070/LeetCode_69/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/divyam4070/LeetCode_69/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/divyam4070/LeetCode_69/tree/master/0085-maximal-rectangle) |
+| [0174-dungeon-game](https://github.com/divyam4070/LeetCode_69/tree/master/0174-dungeon-game) |
 | [0240-search-a-2d-matrix-ii](https://github.com/divyam4070/LeetCode_69/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/divyam4070/LeetCode_69/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0898-transpose-matrix](https://github.com/divyam4070/LeetCode_69/tree/master/0898-transpose-matrix) |
@@ -230,6 +232,7 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 | [0062-unique-paths](https://github.com/divyam4070/LeetCode_69/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/divyam4070/LeetCode_69/tree/master/0063-unique-paths-ii) |
 | [0085-maximal-rectangle](https://github.com/divyam4070/LeetCode_69/tree/master/0085-maximal-rectangle) |
+| [0174-dungeon-game](https://github.com/divyam4070/LeetCode_69/tree/master/0174-dungeon-game) |
 | [0357-count-numbers-with-unique-digits](https://github.com/divyam4070/LeetCode_69/tree/master/0357-count-numbers-with-unique-digits) |
 | [0392-is-subsequence](https://github.com/divyam4070/LeetCode_69/tree/master/0392-is-subsequence) |
 ## Design
