@@ -107,6 +107,7 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 | ------- |
 | [0009-palindrome-number](https://github.com/divyam4070/LeetCode_69/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/divyam4070/LeetCode_69/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/divyam4070/LeetCode_69/tree/master/0062-unique-paths) |
 | [0292-nim-game](https://github.com/divyam4070/LeetCode_69/tree/master/0292-nim-game) |
 | [0357-count-numbers-with-unique-digits](https://github.com/divyam4070/LeetCode_69/tree/master/0357-count-numbers-with-unique-digits) |
 | [1033-broken-calculator](https://github.com/divyam4070/LeetCode_69/tree/master/1033-broken-calculator) |
@@ -224,6 +225,7 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/divyam4070/LeetCode_69/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/divyam4070/LeetCode_69/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/divyam4070/LeetCode_69/tree/master/0062-unique-paths) |
 | [0085-maximal-rectangle](https://github.com/divyam4070/LeetCode_69/tree/master/0085-maximal-rectangle) |
 | [0357-count-numbers-with-unique-digits](https://github.com/divyam4070/LeetCode_69/tree/master/0357-count-numbers-with-unique-digits) |
 | [0392-is-subsequence](https://github.com/divyam4070/LeetCode_69/tree/master/0392-is-subsequence) |
@@ -249,4 +251,8 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 |  |
 | ------- |
 | [1961-maximum-ice-cream-bars](https://github.com/divyam4070/LeetCode_69/tree/master/1961-maximum-ice-cream-bars) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/divyam4070/LeetCode_69/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
