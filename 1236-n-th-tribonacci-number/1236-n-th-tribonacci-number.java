@@ -15,9 +15,9 @@ class Solution {
         arr[2] = 1;
         for(int i=3; i<n+1; i++){
             arr[i] = arr[i-3]+arr[i-2]+arr[i-1];
-            System.out.println(arr[i-2]+" "+arr[i-1]+" "+arr[i-2]);
+          
         }
-        System.out.println(Arrays.toString(arr));
+       
 
         return arr[n];
     }
