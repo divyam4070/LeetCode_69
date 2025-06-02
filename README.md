@@ -115,6 +115,7 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 | [0357-count-numbers-with-unique-digits](https://github.com/divyam4070/LeetCode_69/tree/master/0357-count-numbers-with-unique-digits) |
 | [1013-fibonacci-number](https://github.com/divyam4070/LeetCode_69/tree/master/1013-fibonacci-number) |
 | [1033-broken-calculator](https://github.com/divyam4070/LeetCode_69/tree/master/1033-broken-calculator) |
+| [1236-n-th-tribonacci-number](https://github.com/divyam4070/LeetCode_69/tree/master/1236-n-th-tribonacci-number) |
 | [2050-count-good-numbers](https://github.com/divyam4070/LeetCode_69/tree/master/2050-count-good-numbers) |
 | [2571-find-the-pivot-integer](https://github.com/divyam4070/LeetCode_69/tree/master/2571-find-the-pivot-integer) |
 ## Hash Table
@@ -241,6 +242,7 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 | [0357-count-numbers-with-unique-digits](https://github.com/divyam4070/LeetCode_69/tree/master/0357-count-numbers-with-unique-digits) |
 | [0392-is-subsequence](https://github.com/divyam4070/LeetCode_69/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/divyam4070/LeetCode_69/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/divyam4070/LeetCode_69/tree/master/1236-n-th-tribonacci-number) |
 ## Design
 |  |
 | ------- |
@@ -271,4 +273,5 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/divyam4070/LeetCode_69/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/divyam4070/LeetCode_69/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
