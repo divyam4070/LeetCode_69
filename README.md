@@ -113,6 +113,7 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 | [0062-unique-paths](https://github.com/divyam4070/LeetCode_69/tree/master/0062-unique-paths) |
 | [0292-nim-game](https://github.com/divyam4070/LeetCode_69/tree/master/0292-nim-game) |
 | [0357-count-numbers-with-unique-digits](https://github.com/divyam4070/LeetCode_69/tree/master/0357-count-numbers-with-unique-digits) |
+| [1013-fibonacci-number](https://github.com/divyam4070/LeetCode_69/tree/master/1013-fibonacci-number) |
 | [1033-broken-calculator](https://github.com/divyam4070/LeetCode_69/tree/master/1033-broken-calculator) |
 | [2050-count-good-numbers](https://github.com/divyam4070/LeetCode_69/tree/master/2050-count-good-numbers) |
 | [2571-find-the-pivot-integer](https://github.com/divyam4070/LeetCode_69/tree/master/2571-find-the-pivot-integer) |
@@ -191,6 +192,7 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 | [0021-merge-two-sorted-lists](https://github.com/divyam4070/LeetCode_69/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/divyam4070/LeetCode_69/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/divyam4070/LeetCode_69/tree/master/0234-palindrome-linked-list) |
+| [1013-fibonacci-number](https://github.com/divyam4070/LeetCode_69/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/divyam4070/LeetCode_69/tree/master/2050-count-good-numbers) |
 ## Divide and Conquer
 |  |
@@ -238,6 +240,7 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 | [0174-dungeon-game](https://github.com/divyam4070/LeetCode_69/tree/master/0174-dungeon-game) |
 | [0357-count-numbers-with-unique-digits](https://github.com/divyam4070/LeetCode_69/tree/master/0357-count-numbers-with-unique-digits) |
 | [0392-is-subsequence](https://github.com/divyam4070/LeetCode_69/tree/master/0392-is-subsequence) |
+| [1013-fibonacci-number](https://github.com/divyam4070/LeetCode_69/tree/master/1013-fibonacci-number) |
 ## Design
 |  |
 | ------- |
@@ -264,4 +267,8 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/divyam4070/LeetCode_69/tree/master/0062-unique-paths) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/divyam4070/LeetCode_69/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
