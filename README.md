@@ -100,6 +100,7 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/divyam4070/LeetCode_69/tree/master/0005-longest-palindromic-substring) |
+| [0091-decode-ways](https://github.com/divyam4070/LeetCode_69/tree/master/0091-decode-ways) |
 | [0392-is-subsequence](https://github.com/divyam4070/LeetCode_69/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/divyam4070/LeetCode_69/tree/master/0409-longest-palindrome) |
 | [1078-remove-outermost-parentheses](https://github.com/divyam4070/LeetCode_69/tree/master/1078-remove-outermost-parentheses) |
@@ -238,6 +239,7 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 | [0063-unique-paths-ii](https://github.com/divyam4070/LeetCode_69/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/divyam4070/LeetCode_69/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/divyam4070/LeetCode_69/tree/master/0085-maximal-rectangle) |
+| [0091-decode-ways](https://github.com/divyam4070/LeetCode_69/tree/master/0091-decode-ways) |
 | [0174-dungeon-game](https://github.com/divyam4070/LeetCode_69/tree/master/0174-dungeon-game) |
 | [0357-count-numbers-with-unique-digits](https://github.com/divyam4070/LeetCode_69/tree/master/0357-count-numbers-with-unique-digits) |
 | [0392-is-subsequence](https://github.com/divyam4070/LeetCode_69/tree/master/0392-is-subsequence) |
