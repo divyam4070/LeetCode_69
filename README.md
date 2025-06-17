@@ -104,6 +104,7 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 | [0392-is-subsequence](https://github.com/divyam4070/LeetCode_69/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/divyam4070/LeetCode_69/tree/master/0409-longest-palindrome) |
 | [1078-remove-outermost-parentheses](https://github.com/divyam4070/LeetCode_69/tree/master/1078-remove-outermost-parentheses) |
+| [1250-longest-common-subsequence](https://github.com/divyam4070/LeetCode_69/tree/master/1250-longest-common-subsequence) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/divyam4070/LeetCode_69/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/divyam4070/LeetCode_69/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Math
@@ -245,6 +246,7 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 | [0392-is-subsequence](https://github.com/divyam4070/LeetCode_69/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/divyam4070/LeetCode_69/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/divyam4070/LeetCode_69/tree/master/1236-n-th-tribonacci-number) |
+| [1250-longest-common-subsequence](https://github.com/divyam4070/LeetCode_69/tree/master/1250-longest-common-subsequence) |
 ## Design
 |  |
 | ------- |
