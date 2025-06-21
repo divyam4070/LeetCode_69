@@ -96,6 +96,7 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/divyam4070/LeetCode_69/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2308-divide-array-into-equal-pairs](https://github.com/divyam4070/LeetCode_69/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/divyam4070/LeetCode_69/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/divyam4070/LeetCode_69/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 ## String
 |  |
 | ------- |
@@ -107,6 +108,7 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 | [1250-longest-common-subsequence](https://github.com/divyam4070/LeetCode_69/tree/master/1250-longest-common-subsequence) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/divyam4070/LeetCode_69/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/divyam4070/LeetCode_69/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/divyam4070/LeetCode_69/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 ## Math
 |  |
 | ------- |
@@ -132,6 +134,7 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 | [2308-divide-array-into-equal-pairs](https://github.com/divyam4070/LeetCode_69/tree/master/2308-divide-array-into-equal-pairs) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/divyam4070/LeetCode_69/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/divyam4070/LeetCode_69/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/divyam4070/LeetCode_69/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 ## Sorting
 |  |
 | ------- |
