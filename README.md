@@ -26,6 +26,7 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/divyam4070/LeetCode_69/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/divyam4070/LeetCode_69/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/divyam4070/LeetCode_69/tree/master/0540-single-element-in-a-sorted-array) |
+| [0575-distribute-candies](https://github.com/divyam4070/LeetCode_69/tree/master/0575-distribute-candies) |
 | [0624-maximum-distance-in-arrays](https://github.com/divyam4070/LeetCode_69/tree/master/0624-maximum-distance-in-arrays) |
 | [0724-find-pivot-index](https://github.com/divyam4070/LeetCode_69/tree/master/0724-find-pivot-index) |
 | [0898-transpose-matrix](https://github.com/divyam4070/LeetCode_69/tree/master/0898-transpose-matrix) |
@@ -131,6 +132,7 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 | [0073-set-matrix-zeroes](https://github.com/divyam4070/LeetCode_69/tree/master/0073-set-matrix-zeroes) |
 | [0160-intersection-of-two-linked-lists](https://github.com/divyam4070/LeetCode_69/tree/master/0160-intersection-of-two-linked-lists) |
 | [0409-longest-palindrome](https://github.com/divyam4070/LeetCode_69/tree/master/0409-longest-palindrome) |
+| [0575-distribute-candies](https://github.com/divyam4070/LeetCode_69/tree/master/0575-distribute-candies) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/divyam4070/LeetCode_69/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2055-describe-the-painting](https://github.com/divyam4070/LeetCode_69/tree/master/2055-describe-the-painting) |
 | [2308-divide-array-into-equal-pairs](https://github.com/divyam4070/LeetCode_69/tree/master/2308-divide-array-into-equal-pairs) |
