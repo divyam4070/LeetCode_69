@@ -46,6 +46,7 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 | [2132-convert-1d-array-into-2d-array](https://github.com/divyam4070/LeetCode_69/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/divyam4070/LeetCode_69/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2308-divide-array-into-equal-pairs](https://github.com/divyam4070/LeetCode_69/tree/master/2308-divide-array-into-equal-pairs) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/divyam4070/LeetCode_69/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/divyam4070/LeetCode_69/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/divyam4070/LeetCode_69/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/divyam4070/LeetCode_69/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -124,6 +125,7 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 | [1033-broken-calculator](https://github.com/divyam4070/LeetCode_69/tree/master/1033-broken-calculator) |
 | [1236-n-th-tribonacci-number](https://github.com/divyam4070/LeetCode_69/tree/master/1236-n-th-tribonacci-number) |
 | [2050-count-good-numbers](https://github.com/divyam4070/LeetCode_69/tree/master/2050-count-good-numbers) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/divyam4070/LeetCode_69/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2571-find-the-pivot-integer](https://github.com/divyam4070/LeetCode_69/tree/master/2571-find-the-pivot-integer) |
 ## Hash Table
 |  |
