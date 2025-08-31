@@ -51,6 +51,7 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/divyam4070/LeetCode_69/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/divyam4070/LeetCode_69/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/divyam4070/LeetCode_69/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/divyam4070/LeetCode_69/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/divyam4070/LeetCode_69/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/divyam4070/LeetCode_69/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3430-count-days-without-meetings](https://github.com/divyam4070/LeetCode_69/tree/master/3430-count-days-without-meetings) |
@@ -172,6 +173,7 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 | [0898-transpose-matrix](https://github.com/divyam4070/LeetCode_69/tree/master/0898-transpose-matrix) |
 | [1791-richest-customer-wealth](https://github.com/divyam4070/LeetCode_69/tree/master/1791-richest-customer-wealth) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/divyam4070/LeetCode_69/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/divyam4070/LeetCode_69/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -292,4 +294,16 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 | ------- |
 | [1013-fibonacci-number](https://github.com/divyam4070/LeetCode_69/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/divyam4070/LeetCode_69/tree/master/1236-n-th-tribonacci-number) |
+## Depth-First Search
+|  |
+| ------- |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/divyam4070/LeetCode_69/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/divyam4070/LeetCode_69/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+## Union Find
+|  |
+| ------- |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/divyam4070/LeetCode_69/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 <!---LeetCode Topics End-->
