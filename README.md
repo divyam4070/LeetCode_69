@@ -18,6 +18,7 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 | [0073-set-matrix-zeroes](https://github.com/divyam4070/LeetCode_69/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/divyam4070/LeetCode_69/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/divyam4070/LeetCode_69/tree/master/0085-maximal-rectangle) |
+| [0134-gas-station](https://github.com/divyam4070/LeetCode_69/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/divyam4070/LeetCode_69/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/divyam4070/LeetCode_69/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0174-dungeon-game](https://github.com/divyam4070/LeetCode_69/tree/master/0174-dungeon-game) |
@@ -235,6 +236,7 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/divyam4070/LeetCode_69/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/divyam4070/LeetCode_69/tree/master/0135-candy) |
 | [0409-longest-palindrome](https://github.com/divyam4070/LeetCode_69/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/divyam4070/LeetCode_69/tree/master/0455-assign-cookies) |
