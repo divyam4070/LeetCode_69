@@ -132,6 +132,7 @@ Enjoy leetcode solutions.. wait what do I mean by enjoy... oh nvm life sucks....
 | [2432-number-of-zero-filled-subarrays](https://github.com/divyam4070/LeetCode_69/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2571-find-the-pivot-integer](https://github.com/divyam4070/LeetCode_69/tree/master/2571-find-the-pivot-integer) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/divyam4070/LeetCode_69/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3830-find-closest-person](https://github.com/divyam4070/LeetCode_69/tree/master/3830-find-closest-person) |
 ## Hash Table
 |  |
 | ------- |
